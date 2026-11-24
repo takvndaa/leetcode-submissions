@@ -1,0 +1,5 @@
+print("I belong here.")
+# Comment out: print("Why am I here?")
+# Comment out: print("Get me out of here!")
+print("I also belong here.")
+print("Me too!")
